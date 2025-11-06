@@ -27,7 +27,7 @@ The project examines the role of health, lifestyle, and demographic factors in d
 
 5. Outcome Variable: CVD (Heart Attack) Risk Level
 
-## 🔍 Analysis Insights (from the notebook content) ##
+## 🔍 Analysis Insights ##
 
 * Correlation studies reveal strong links between age, BMI, blood pressure, diabetes, and heart attack risk.
 
